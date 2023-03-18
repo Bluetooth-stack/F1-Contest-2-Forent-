@@ -189,7 +189,7 @@ body {
     left: 980px;
     top: 565px;
     border: none;
-    background: #FECB03;
+    background: rgb(254, 203, 3);
     border-radius: 50px;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
@@ -198,7 +198,7 @@ body {
     /* identical to box height */
     color: #262626;
     cursor: pointer;
-    box-shadow: 4px 3px 10px 10px inset rgba(247, 250, 79, 0.89);
+    box-shadow: 4.5px 4.5px 10px 10px inset rgba(247, 250, 79, 0.884);
 }
 
 .clock-btn:hover{
